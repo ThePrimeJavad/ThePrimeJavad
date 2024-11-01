@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Javad a 22-year-old self-taught programmer
-- 👀 I’m interested in Ai(ML,DL,CV), Linux, Python and Java
+- A 22-year-old self-taught programmer
+- interested in Linux,Python,Java and other technologies.
 
