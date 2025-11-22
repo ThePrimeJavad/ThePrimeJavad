@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a **24-year-old self-taught programmer from Rasht, Iran**, focused on learning, building, and improving every day.
 
 I work with and enjoy exploring:
