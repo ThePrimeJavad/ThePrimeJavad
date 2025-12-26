@@ -1,16 +1,30 @@
 # About Me:
-I’m a **24-year-old self-taught programmer from Rasht, Iran**, focused on learning, building, and improving every day.
+```python
+class SoftwareEngineer:
+    name = "Mohammad Javad Yousefi"
+    age = 24
+    location = "Rasht, Iran"
+    role = "Self-taught Backend / DevOps Engineer"
 
-I work with and enjoy exploring:
+    focus = "Learning, building, and improving every day"
 
-- 🐧 **Linux**  
-- 🐍 **Python**  
-- 🐳 **Docker**  
-- ☸️ **Kubernetes**  
-- ⚙️ **Automation & DevOps tooling**  
-- 🔎 **Data Scraping & Web Crawling**  
-- 🕸️ **Django & Backend Development**  
-- 🖥️ **Virtualization & System Engineering**
+    tech_stack = [
+        "Linux",
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "Automation & DevOps Tooling",
+        "Data Scraping & Web Crawling",
+        "Django & Backend Development",
+        "Virtualization & System Engineering",
+    ]
+
+    currently_learning = [
+        "CI/CD Pipeline Design",
+        "Cloud Infrastructure",
+        "System Design for Scalable Backends",
+    ]
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theprimejavad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theprimejavad) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@theprimejavad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:theprimejavad@gmail.com) 
